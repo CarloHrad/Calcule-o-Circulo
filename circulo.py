@@ -2,7 +2,7 @@ import math
 pi = math.pi
 print("DESCUBRA O QUE QUISER DE UM CÍRCULO")
 while True:
-    print("\nDigite o número que antecede a opção que deseja saber ")
+    print("\nDigite o número que antecede a opção que deseja saber: ")
     resposta = str(input("[ 0 ] Raio \n[ 1 ] Diâmetro \n[ 2 ] Circunferência \n[ 3 ] Área\n"))
 
 
@@ -87,4 +87,5 @@ while True:
         break
     if sim[0] in 'S':
         True
+
 print("FIM DO PROGRAMA.")
