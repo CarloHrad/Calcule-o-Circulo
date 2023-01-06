@@ -87,4 +87,4 @@ while True:
         break
     if sim[0] in 'S':
         True
-print("FIM DO PROGRAMA")
+print("FIM DO PROGRAMA.")
