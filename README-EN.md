@@ -1,4 +1,4 @@
-# circle calculator
+# Circle Calculator
 
 input any information about a circle/circumference: Example:  Radius, Area...
 
