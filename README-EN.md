@@ -13,5 +13,5 @@ Practical example:
 
 
       User inputs: Radius = 3.19
-      The program returns: Area value (with radius = 3.19) = 31,95...
+      The program returns Area value (with radius = 3.19) = 31,95...
       Area value = 31,95 
